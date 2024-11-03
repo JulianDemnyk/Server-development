@@ -36,6 +36,15 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'Cpu_app',
+    'Motherboard_app',
+    'Gpu_app',
+    'Ram_app',
+    'Coolingsystem_app',
+    'Powersupply_app',
+    'Storage_app',
+    'Case_app',
+    'Recomendedbuild_app',
 ]
 
 MIDDLEWARE = [

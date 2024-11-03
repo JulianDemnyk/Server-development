@@ -1,0 +1,1 @@
+from .recomendedbuild_admin import RecomendedbuildAdmin
