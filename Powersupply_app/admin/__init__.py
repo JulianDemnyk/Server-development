@@ -1,0 +1,1 @@
+from .powersupply_admin import PowerSupplyMainAdmin
